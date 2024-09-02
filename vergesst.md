@@ -1,1 +1,1 @@
-a simple website for vergesst(vewrgisst)
+a simple website for vergesst(vergisst)
